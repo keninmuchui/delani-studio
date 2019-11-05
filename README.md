@@ -8,9 +8,10 @@ This is a webpage for Delani studios. It basically shows the services they offer
 
 ## Requirements
 
-Accessible from any web browser 
+Accessible from any web browser
 
 #### Technologies Used
+
 - HTML & CSS (Bootstrap)
 - FontAwesome Icons
 - Javascript (jQuery 3.4.1)
@@ -24,6 +25,7 @@ No known bugs
 You can contact me through my email: keninmuchui@gmail.com or https://github.com/keninmuchui
 
 ## License
+
 MIT License
 
 Copyright (c) 2019 Kenin Muchui
