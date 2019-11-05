@@ -2,23 +2,18 @@
 
 ### KENIN MUCHUI
 
-## Screenshots
-
-
 ## Description
 
+This is a webpage for Delani studios. It basically shows the services they offer, a portfolio section showing some of their work and a form where you can contact the company.
 
-## Project setup
+## Requirements
 
+Accessible from any web browser 
 
-## Technologies Used
-
-- HTML
-- CSS
-- Visual Studio Code
-- Bootstrap
-- Javascript
-- JQuery
+#### Technologies Used
+- HTML & CSS (Bootstrap)
+- FontAwesome Icons
+- Javascript (jQuery 3.4.1)
 
 ## Known Bugs
 
