@@ -24,3 +24,9 @@ $(".click0").click(function(){
     var client = document.getElementById('nameDetail').value;
     alert('Thank you ' + ' we will respond shortly. ' + '!');
 });
+
+$("button").on('click', function(){
+    $('form').each(function(){
+      this.reset();
+    });
+  });
