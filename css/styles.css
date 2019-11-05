@@ -18,3 +18,39 @@ body{
     font-family: 'Nunito', sans-serif;
     margin-bottom: 0;
   }
+
+  .tm-container {
+      max-width: 70vw;
+      margin: 0 auto;
+  }
+
+  footer{
+    text-align: center;
+    margin-top: 5%;
+    color:grey;
+  }
+
+  .container {
+      position: relative;
+  }
+
+  .middle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+ -ms-transform: translate(-50%, -50%);
+ text-align: center;
+ background: white;
+ opacity: 0.55;
+font-weight: bolder;
+  }
+
+  .came {
+      text-align: center;
+      padding-top: 10%;
+  }
+
+  body{
+      overflow-x: hidden;
+  }
