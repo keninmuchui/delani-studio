@@ -1,0 +1,20 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+  padding: 0;
+}
+ 
+body{
+    text-align: center;
+}
+
+#sec-1 {
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    height: 97vh;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 0;
+  }
