@@ -85,3 +85,27 @@ footer {
     color:whitesmoke;
       margin-top: 5%;
    }
+
+   .show1,.show2,.show0{
+    display: none;
+   }
+
+   #sec-4 {
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: center;
+       margin-top: 5%;
+   }
+
+   form {
+       opacity: 0.55;
+   }
+
+   .meso {
+       text-align: center;
+       width: 100%;
+   }
+
+   .btn {
+       color: red;
+   }
