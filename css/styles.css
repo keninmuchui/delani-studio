@@ -1,4 +1,11 @@
-* {
+*  
+/* @import url(bootstrap.css);
+@import url(bootstrap.min.css);
+@import url(bootstrap-theme.css);
+@import url(bootstrap.css.map);
+@import url(bootstrap-theme.css.map);
+@import url(bootstrap.css.map); */
+{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -9,7 +16,7 @@ body {
 }
 
 #sec-1 {
-  background-image: url("../images/backgrounds/c_image.jpg");
+  background-image: url("../images/backgrounds/h_img.jpg");
   background-size: cover;
   background-attachment: fixed;
   color: #fff;
@@ -63,7 +70,7 @@ footer {
 }
 
 #sec-5 {
-  background-image: url(../images/c_image.jpg);
+  background-image: url("../images/backgrounds/c_image.jpg");
   height: 80vh;
   margin-top: 10%;
   background-repeat: no-repeat;
