@@ -19,3 +19,8 @@ $(".click0").click(function(){
     $(".hide2").slideToggle(1000);
     $(".show2").slideToggle(1200);
   });
+
+  $("button").click(function(party) {
+    var client = document.getElementById('nameDetail').value;
+    alert('Thank you ' + ' we will respond shortly. ' + '!');
+});
