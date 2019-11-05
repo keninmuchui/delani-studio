@@ -79,3 +79,9 @@ footer {
   font-size: calc(3vw + 3vh + 0.5vmin);
 }
 
+#sec-3 {
+    font-size: calc(1vw + 1vh + .5vmin);
+    background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true');
+    color:whitesmoke;
+      margin-top: 5%;
+   }
