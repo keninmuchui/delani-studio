@@ -1,75 +1,81 @@
-*
-{
-    box-sizing: border-box;
-    margin: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
   padding: 0;
 }
- 
-body{
-    text-align: center;
+
+body {
+  text-align: center;
 }
 
 #sec-1 {
-    background-image: url('../images/backgrounds/c_image.jpg') ;
-    background-size: cover;
-    background-attachment: fixed;
-    color: #fff;
-    height: 97vh;
-    font-family: 'Nunito', sans-serif;
-    margin-bottom: 0;
-  }
+  background-image: url("../images/backgrounds/c_image.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+  height: 97vh;
+  font-family: "Nunito", sans-serif;
+  margin-bottom: 0;
+}
 
-  .tm-container {
-      max-width: 70vw;
-      margin: 0 auto;
-  }
+.tm-container {
+  max-width: 70vw;
+  margin: 0 auto;
+}
 
-  footer{
-    text-align: center;
-    margin-top: 5%;
-    color:grey;
-  }
+footer {
+  text-align: center;
+  margin-top: 5%;
+  color: grey;
+}
 
-  .container {
-      position: relative;
-  }
+.container {
+  position: relative;
+}
 
-  .middle {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
- -ms-transform: translate(-50%, -50%);
- text-align: center;
- background: white;
- opacity: 0.55;
-font-weight: bolder;
-  }
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  background: white;
+  opacity: 0.55;
+  font-weight: bolder;
+}
 
-  .social {
-      text-align: center;
-      padding-top: 10%;
-  }
-  .top{
-    padding-bottom: 10%;
-  } 
-  
-.card{
+.social {
+  text-align: center;
+  padding-top: 10%;
+}
+.top {
+  padding-bottom: 10%;
+}
+#del {
+  padding-top: 20px;
+}
+.card {
   width: 33.33%;
 }
 .body {
-      overflow-x: hidden;
-  }
-  #sec-5{
-    background-image: url(../images/c_image.jpg);
-    height: 80vh;
-    margin-top: 10%;
-    background-repeat: no-repeat;
-    }
-  .col-md-12 {
-    margin: 10px 0;
-    padding: 10%
-    font-size  calc(1vw + 1vh + .5vmin);
-   }
-   
+  overflow-x: hidden;
+}
+
+#sec-5 {
+  background-image: url(../images/c_image.jpg);
+  height: 80vh;
+  margin-top: 10%;
+  background-repeat: no-repeat;
+}
+
+.col-md-12 {
+  margin: 10px 0;
+  padding: 10% font-size calc(1vw + 1vh + 0.5vmin);
+}
+
+.col-md-12 h1,
+#sec-3 h1 {
+  font-size: calc(3vw + 3vh + 0.5vmin);
+}
 
