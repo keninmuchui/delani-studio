@@ -66,3 +66,10 @@ font-weight: bolder;
     padding: 10%
     font-size  calc(1vw + 1vh + .5vmin);
    }
+   #sec-5{
+    background-image: url(../images/c_image.jpg);
+    height: 80vh;
+    margin-top: 10%;
+    background-repeat: no-repeat;
+    }
+    
