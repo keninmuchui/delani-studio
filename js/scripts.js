@@ -23,6 +23,7 @@ $(".click0").click(function(){
   $("button").click(function(party) {
     var client = document.getElementById('nameDetail').value;
     alert('Thank you ' + ' we will respond shortly. ' + '!');
+    party.preventDefault();
 });
 
 $("button").on('click', function(){
