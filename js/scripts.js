@@ -4,3 +4,8 @@ $(document).ready(function(){
         $(this).find(".road").toggle(400);
 });
 });
+
+$(".click0").click(function(){
+    $(".hide0").slideToggle(1000);
+    $(".show0").slideToggle(1200);
+  });

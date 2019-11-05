@@ -60,16 +60,16 @@ font-weight: bolder;
 .body {
       overflow-x: hidden;
   }
-
-  .col-md-12 {
-    margin: 10px 0;
-    padding: 10%
-    font-size  calc(1vw + 1vh + .5vmin);
-   }
-   #sec-5{
+  #sec-5{
     background-image: url(../images/c_image.jpg);
     height: 80vh;
     margin-top: 10%;
     background-repeat: no-repeat;
     }
-    
+  .col-md-12 {
+    margin: 10px 0;
+    padding: 10%
+    font-size  calc(1vw + 1vh + .5vmin);
+   }
+   
+
