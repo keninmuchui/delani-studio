@@ -46,11 +46,23 @@ body{
 font-weight: bolder;
   }
 
-  .came {
+  .social {
       text-align: center;
       padding-top: 10%;
   }
-
-  body{
+  .top{
+    padding-bottom: 10%;
+  } 
+  
+.card{
+  width: 33.33%;
+}
+.body {
       overflow-x: hidden;
   }
+
+  .col-md-12 {
+    margin: 10px 0;
+    padding: 10%
+    font-size  calc(1vw + 1vh + .5vmin);
+   }
